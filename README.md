@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AdnanHyder928
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning C++ and Python
-- 💞️ I’m looking to collaborate on game development
+- 💞️ I’m interested in learning Web Development
 - 📫 How to reach me : adnanhyder928@gmail.com
 
 <!---
