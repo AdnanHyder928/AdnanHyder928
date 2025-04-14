@@ -1,8 +1,15 @@
-- 👋 Hi, I’m @AdnanHyder928
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning C++ and Python
-- 💞️ I’m interested in learning Web Development
-- 📫 How to reach me : adnanhyder928@gmail.com
+### 👋 Hey there! I’m Adnan
+- 👀 I find Web development intresting
+-  🧠 Recently been exploring:
+  - ⚡ **Embedded Systems** (ESP32, Arduino, etc.)
+  - 🎯 **PCB Design** using tools like KiCad and Proteus
+  - 💻 **Real-Time Systems** & **IoT Projects**  
+- 🌱 I’m currently learning JavaScript & React
+- 💞️ Open to collaboration on anything embedded, web-based, or just plain cool  
+- 📫 You can reach me at: **adnanhyder928@gmail.com**
+
+
+
 
 <!---
 AdnanHyder928/AdnanHyder928 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
