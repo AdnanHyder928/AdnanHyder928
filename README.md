@@ -2,7 +2,7 @@
 - 👀 I find Web development intresting
 -  🧠 Recently been exploring:
     - ⚡ **Embedded Systems** (ESP32, Arduino, etc.)
-    - 🎯 **PCB Design** using tools like KiCad and Proteus
+    - 🎯 **PCB Design** (KiCAD)
     - 💻 **Real-Time Systems** & **IoT Projects**  
 - 🌱 I’m currently learning JavaScript & React
 - 💞️ Open to collaboration on anything embedded, web-based, or just plain cool  
