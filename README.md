@@ -1,9 +1,9 @@
 ### 👋 Hey there! I’m Adnan
 - 👀 I find Web development intresting
 -  🧠 Recently been exploring:
-  - ⚡ **Embedded Systems** (ESP32, Arduino, etc.)
-  - 🎯 **PCB Design** using tools like KiCad and Proteus
-  - 💻 **Real-Time Systems** & **IoT Projects**  
+    - ⚡ **Embedded Systems** (ESP32, Arduino, etc.)
+    - 🎯 **PCB Design** using tools like KiCad and Proteus
+    - 💻 **Real-Time Systems** & **IoT Projects**  
 - 🌱 I’m currently learning JavaScript & React
 - 💞️ Open to collaboration on anything embedded, web-based, or just plain cool  
 - 📫 You can reach me at: **adnanhyder928@gmail.com**
