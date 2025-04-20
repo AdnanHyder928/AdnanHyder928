@@ -1,5 +1,5 @@
 ### 👋 Hey there! I’m Adnan
-- 👀 I find Web development intresting
+- 👀 I find Web development interesting
 -  🧠 Recently been exploring:
     - ⚡ **Embedded Systems** (ESP32, STM32, Arduino)
     - 🎯 **PCB Design** (KiCAD)
