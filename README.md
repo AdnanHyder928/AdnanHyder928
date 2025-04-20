@@ -4,7 +4,7 @@
     - ⚡ **Embedded Systems** (ESP32, STM32, Arduino)
     - 🎯 **PCB Design** (KiCAD)
     - 💻 **Real-Time Systems** & **IoT Projects**  
-- 🌱 I’m currently learning JavaScript & React
+- 🌱 I’m currently learning JavaScript & React, and KiCAD
 - 💞️ Open to collaboration on anything embedded, web-based, or just plain cool  
 - 📫 You can reach me at: **adnanhyder928@gmail.com**
 
