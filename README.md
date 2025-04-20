@@ -1,7 +1,7 @@
 ### 👋 Hey there! I’m Adnan
 - 👀 I find Web development intresting
 -  🧠 Recently been exploring:
-    - ⚡ **Embedded Systems** (ESP32, Arduino, etc.)
+    - ⚡ **Embedded Systems** (ESP32, STM32, Arduino)
     - 🎯 **PCB Design** (KiCAD)
     - 💻 **Real-Time Systems** & **IoT Projects**  
 - 🌱 I’m currently learning JavaScript & React
